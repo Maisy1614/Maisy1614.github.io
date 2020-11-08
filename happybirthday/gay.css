@@ -1,0 +1,43 @@
+.button{
+    width: 200px;
+}
+
+.b3{
+    color: white;
+    background-color: black;
+
+}
+
+body {
+    background-color: #8E9194;
+}
+
+.text {
+    text-align: center;
+    font-size: larger;
+}
+
+h3 {
+    font-size: 400%;
+}
+
+img{
+    margin: auto;
+    padding-right: 25px;
+}
+
+.specific{
+    text-align: center;
+    font-size: x-large;
+    padding-top: 100px;
+}
+
+.bigbig{
+    width: 70%;
+    height: 24%;
+    
+}
+
+.mucc {
+    font-size: 375%;
+}
