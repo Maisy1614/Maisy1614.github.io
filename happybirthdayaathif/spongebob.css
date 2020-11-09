@@ -1,0 +1,169 @@
+.text{
+    text-align: center;
+}
+
+h1{
+    color: black;
+}
+
+body{
+    background-color:  #1DBBEA ;
+    color: black;
+    font-size: larger;
+}
+
+.jumbotron {
+    padding: 3rem;
+    margin-bottom: 2rem;
+    background-color: white;
+    border-radius: .3rem;
+}
+.trost{
+    font-size: 230%;
+    color:  #1DBBEA ;
+}
+
+.ashford{
+    font-size: 200%;
+    color: #1DBBEA;
+}
+
+.bigbig{
+    width: 70%;
+    height: 50%;
+}
+
+.smallsmall{
+    width: 70%;
+    height: 50%;
+}
+
+.hehe{
+    width: 70%;
+    height: 50%;
+}
+.huhu{
+    width: 70%;
+    height: 50%;
+}
+.bro{
+    width: 70%;
+    height: 50%;
+}
+.boem{
+    width: 70%;
+    height: 50%;
+}
+
+/* .arrow1{
+    width:70%;
+    height:40%;
+}
+
+.arrow2{
+    width:70%;
+    height:40%;
+}
+
+.arrowbtns{
+    /* border: 5px dotted black; */
+    /* font-size: 50px;
+    color: #1DBBEA;
+}
+.arrowbtns2{
+    /* border: 5px dotted black; */
+    /* font-size: 50px;
+    color: #1DBBEA;
+}
+.btn-group3{
+    padding-right: 900px;
+    padding-top: 1rem;
+}
+
+.btn-group2{
+    padding-left: 900px;
+    padding-top: 1rem;
+} */ 
+
+.btn-group{
+    padding-left: 390px;
+}
+.big{
+    font-size: 200%;
+}
+
+#A{
+    font-size: 100%;
+}
+
+#p1:first-letter {
+    color: black;
+    font-size: 70px;
+}
+
+
+.text2{
+    text-align: center;
+    line-height: 15pt;
+    padding-top: 30px;
+    font-family: 'Lobster', cursive;
+    font-size: 150%;
+    border: 7px dotted black;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.jumbotron2{
+    padding: 3rem;
+    margin-bottom: 2rem;
+    background-color: white;
+    border-radius: .3rem;
+    text-align: center;
+}
+.trost2{
+    font-size: 230%;
+    color:  #1DBBEA ;
+    font-family: 'Lobster', cursive;
+}
+
+#p6{
+    font-family: sans-serif;
+    color: black;
+    font-size: larger;
+    text-align: center;
+}
+
+#p5{
+    font-family: sans-serif;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
+
+/* .ezlast{
+    font-size: 375%;
+    color: white;
+    background-color: black;
+    text-align: center; 
+}
+
+.endend{
+    width: 100%;
+}
+
+.btn-group2{
+    padding-left: 320px;
+    border: 0px;
+} */
+
+#last{
+    background-color: black;
+    font-size: 400%;
+    text-align: center;
+    margin-left: 380px;
+}
+
+.end{
+    color: white;
+}
